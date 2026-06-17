@@ -57,7 +57,7 @@ Gera a lista de parcelas para um contrato.
 
 ## 🔮 Futuras Atualizações (Roadmap)
 
-- [ ] **Persistência de Dados**: Integração com banco de dados (PostgreSQL/SQLite) usando SQLAlchemy ou SQLModel para salvar contratos.
+- [ ] **Persistência de Dados**: Integração com banco de dados (PostgreSQL) usando SQLAlchemy para salvar contratos.
 - [ ] **Autenticação**: Implementação de segurança via OAuth2 e JWT.
 - [ ] **Cálculo de Juros**: Opção para parcelamento com juros simples ou compostos.
 - [ ] **Histórico de Clientes**: Endpoint para consultar todos os contratos gerados por um cliente específico.
